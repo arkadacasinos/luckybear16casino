@@ -27,6 +27,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   return (
     <html lang="ru" className="bg-[#0a0e27]">
       <head>
+        <meta name="yandex-verification" content="2d990cfb0eb9897a" />
         <meta name="author" content="Lucky Bear Casino Guide" />
         <meta name="theme-color" content="#0a0e27" />
         <link rel="canonical" href="https://luckybear-casino.example/" />
